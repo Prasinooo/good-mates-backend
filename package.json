@@ -1,0 +1,25 @@
+{
+  "name": "good-mates-backend",
+  "version": "1.0.0",
+  "description": "a node service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasinooo/good-mates-backend.git"
+  },
+  "keywords": [
+    "good-mates"
+  ],
+  "author": "goosevl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prasinooo/good-mates-backend/issues"
+  },
+  "homepage": "https://github.com/Prasinooo/good-mates-backend#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
